@@ -4,7 +4,6 @@ public class BurgerFacade {
     private Burger classic;
     private Burger eggBurger;
     private Burger cheeseBurger;
-    private Burger cheeseAndEggBurger;
     
     
     public BurgerFacade() {
